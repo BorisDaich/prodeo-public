@@ -1,0 +1,17 @@
+{
+    name: "Private Prodeo Node-Red Nodes Catalogue",   
+    updated_at: "2016-08-05T18:37:50.673Z",
+    modules: [{
+            id: "node-red-prodeo-get-firebase-auth-token",
+            _version: "1.0.0",
+            description: "A node-red node that does firebase auth for flows that do not start with UI user action",
+            keywords: [
+                "node-red",
+                "firebase",
+                "auth"
+            ],
+            updated_at: "2020-10-11T18:37:50.673Z",
+            url: "https://www.npmjs.com/package/@cmxserviceaccount/node-red-prodeo-get-firebase-auth-token"
+        }
+    ]
+}
